@@ -1,2 +1,2 @@
 # OpenLabTool
-Good news Coming soon!
+Good news are Coming soon!
