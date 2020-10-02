@@ -1,10 +1,9 @@
 Here is how you can setup the website on your local machine:
 
-
 clone the repository:
 ```bash
 git clone https://github.com/alifele/OpenMedX.git
-cd Website
+cd OpenMedX/Website
 ```
 
 create the virtual env:
